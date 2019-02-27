@@ -12,7 +12,7 @@ Convocatòria al sopar semestral del departament d'Enginyeria Informàtica de la
     * (Opcional) Si ets el coordinador del Grau en Enginyeria Informàtica també pots convidar al tutor del Grau en Enginyeria Informàtica a unes braves per organitzar els sopars en nom teu (cabró).
 4. (Opcional) Acabat el sopar, pots seguir responent al fil de correu per dir com de bé ens ho passem i donar pel sac amb *spam* a qui no vingui al sopar.
 
-![Graph](https://raw.githubusercontent.com/edetorres/Convocatoria-sopar-GDI-S2-1819/master/JOiiuFtIlVcQzeht.png?token=ALukyTN72nklwWTF96aj6_zLRt0c5mSGks5cdD79wA%3D%3D)
+![Graph](https://raw.githubusercontent.com/edetorres/Convocatoria-sopar-GDI-S2-1819/master/JOiiuFtIlVcQzeht.png)
 
 ### Mr Edsger
 ![Mr Edsger](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Edsger_Wybe_Dijkstra.jpg/800px-Edsger_Wybe_Dijkstra.jpg)
